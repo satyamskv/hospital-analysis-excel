@@ -4,7 +4,7 @@ An end-to-end **Excel data analysis and dashboard project** built around a healt
 
 ## Dashboard Preview
 
-![Hospital Analysis Dashboard](assets/hospital-analysis-dashboard.png)
+![Hospital Analysis Dashboard](Assets/hospital-analysis-dashboard.png)
 
 ## Project Overview
 
